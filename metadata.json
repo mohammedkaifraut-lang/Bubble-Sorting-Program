@@ -2,5 +2,7 @@
   "name": "Bubble Sort Visualizer",
   "description": "Interactive step-by-step Bubble Sort visualizer with animations, comparison tracking, pass logs, and complexity analysis.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
